@@ -1,0 +1,3 @@
+***phase one
+>create main file with class to manage game and all its resources
+    create init method and initialise all window properties
